@@ -15,15 +15,20 @@ function  [blankNifti] = wma_coordCloud2ROI(coords,fsDir)
 % -blankNifti: Endpoint density file for two distinct endpoint clouds of the tract.
 % In this file, we simply sum the values across streamline endpoints. LPI =
 % left posterior inferior endpoint group, RAS = Right anterior superior
-% endpoint bgroup
+% endpoint group
 %
 % (C) Daniel Bullock and Hiromasa Takemura, 2016, CiNet HHS
 %  Overhaul by DNB 9/2019
+%
+%  Dependancies:  Vistasoft
 
 %% Parameter settings & preliminaries
 %generate the gm mask if it doesn't exist
 
 
+
+%Note, this hardpath should be set to wherever you have this atlas stored (mni_icbm152_t1_tal_nlin_asym_09c.nii)
+%atlas obtained from https://figshare.com/articles/FreeSurfer_reconstruction_of_the_MNI152_ICBM2009c_asymmetrical_non-linear_atlas/4223811
 graynii = niftiRead('/N/dc2/projects/lifebid/HCP/Dan/mni_icbm152_nlin_asym_09c/mni_icbm152_t1_tal_nlin_asym_09c.nii');
 % 
 
