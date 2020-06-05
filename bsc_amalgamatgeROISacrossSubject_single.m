@@ -1,7 +1,7 @@
 function bsc_amalgamatgeROISacrossSubject_single(amalgumDir,subjectDirs,subselect,instruction,thresh)
 
 %path to mni t1
-mniT1=niftiRead('/N/dc2/projects/lifebid/HCP/Dan/mni_icbm152_nlin_asym_09c/mni_icbm152_t1_tal_nlin_asym_09c.nii');
+%mniT1=niftiRead('/N/dc2/projects/lifebid/HCP/Dan/mni_icbm152_nlin_asym_09c/mni_icbm152_t1_tal_nlin_asym_09c.nii');
 
 mkdir(fullfile(amalgumDir,'rois'));
 
