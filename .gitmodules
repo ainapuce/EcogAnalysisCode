@@ -1,0 +1,3 @@
+[submodule "wma_tools"]
+	path = wma_tools
+	url = https://github.com/DanNBullock/wma_tools
