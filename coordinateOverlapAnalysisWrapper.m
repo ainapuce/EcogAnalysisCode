@@ -17,6 +17,16 @@ end
 %this is the directory in which you'd like save your output
 outDir='/N/dc2/projects/lifebid/HCP/Dan/EcogProject/';
 
+%This is the threshold applied to endpoint maps prior to amalgamation.
+%voxel values below this number will be set to zero prior to amalgamation.
+preAmalgumThresh=.01;
+
 bsc_amalgamateROISacrossDirectories(dataDirPaths,[],outDir,'binarized',.01)
 
-wma_multiCoordinateOverlapAnalysis(csvDir,outDir,outDir,100)
+%This is the minimum number of subjects exhibiting (binarized) endpoint
+%density from the previous amalgamation step needed in order to be
+%considered as a valid voxel for overlap analysis.  Voxel values in amalgum
+%niftis below this value are set to zero prior to overlap analysis.
+overlapSubjectNumThresh=100;
+
+wma_multiCoordinateOverlapAnalysis(csvDir,outDir,outDir,overlapSubjectNumThresh)
