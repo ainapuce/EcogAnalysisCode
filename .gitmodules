@@ -1,3 +1,6 @@
 [submodule "wma_tools"]
 	path = wma_tools
 	url = https://github.com/DanNBullock/wma_tools
+[submodule "vistasoft"]
+	path = vistasoft
+	url = https://github.com/vistalab/vistasoft
