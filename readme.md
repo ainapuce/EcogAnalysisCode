@@ -9,19 +9,22 @@ Daniel Bullock (dnbulloc@iu.edu)
 
 **Lab Directors**
 
-Franco Pestilli (franpest@indiana.edu) - University of Austin at Texas / Indiana University 
+Franco Pestilli (franpest@indiana.edu) - University of Austin at Texas / Indiana University, USA 
 
-Aina Puce (ainapuce@gmail.com ) - Indiana University Bloomington
+Aina Puce (ainapuce@gmail.com) - Pschological & Brain Sciences, Indiana University, Bloomington, USA
 
-Nathalie George (nathalie.george@upmc.fr ) - Institut du Cerveau et de la Moelle épinière
+Nathalie George (nathalie.george@upmc.fr) - Institut du Cerveau et de la Moelle épinière, Paris, France
 
 Funding sources / Sponsors
 
-[![NSF-BCS-1734853](https://img.shields.io/badge/NSF\_BCS-1734853-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD\_ID=1734853)
+FP: [![NSF-BCS-1734853](https://img.shields.io/badge/NSF\_BCS-1734853-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD\_ID=1734853)
 
-[![NSF-IIS-1636893](https://img.shields.io/badge/NSF\_IIS-1636893-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD\_ID=1636893)
+FP: [![NSF-IIS-1636893](https://img.shields.io/badge/NSF\_IIS-1636893-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD\_ID=1636893)
 
-[![NIMH-T32-5T32MH103213-05](https://img.shields.io/badge/NIMH\_T32-5T32MH103213--05-blue.svg)](https://projectreporter.nih.gov/project\_info\_description.cfm?aid=9725739)
+FP: [![NIMH-T32-5T32MH103213-05](https://img.shields.io/badge/NIMH\_T32-5T32MH103213--05-blue.svg)](https://projectreporter.nih.gov/project\_info\_description.cfm?aid=9725739)
+
+AP: Eleanor Cox Riggs; College of Arts & Sciences, Indiana University Bloomington
+
 
 # Background
 
