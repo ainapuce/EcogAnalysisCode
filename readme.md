@@ -9,7 +9,7 @@ Daniel Bullock (dnbulloc@iu.edu)
 
 **Lab Directors**
 
-Franco Pestilli (franpest@indiana.edu) - Indiana University Bloomington
+Franco Pestilli (franpest@indiana.edu) - University of Austin at Texas / Indiana University 
 
 Aina Puce (ainapuce@gmail.com ) - Indiana University Bloomington
 
